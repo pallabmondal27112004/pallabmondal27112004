@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **laravel, livewire, flutter**
 
-- 👨‍💻 All of my projects are available at [https://teal-crostata-164e82.netlify.app/](https://teal-crostata-164e82.netlify.app/)
+- 👨‍💻 All of my projects are available in this portfolio [https://stalwart-sunflower-ab69cf.netlify.app/)
 
 - 📫 How to reach me **pallabmondal10000008@gmail.com**
 
