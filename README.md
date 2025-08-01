@@ -1,6 +1,6 @@
 <!-- Banner / Header Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d40931f9-b856-413e-8f13-e624d1717b67" alt="Profile Banner" width="100%">
+<!--   <img src="https://github.com/user-attachments/assets/d40931f9-b856-413e-8f13-e624d1717b67" alt="Profile Banner" width="100%"> -->
 </p>
 
 <h1 align="center">Hi there, I'm Pallab 👋</h1>
