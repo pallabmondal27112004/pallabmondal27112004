@@ -24,6 +24,9 @@
 
 - 🔹 **Portfolio Website** – React, Redux, Framer Motion, Django REST  
   👉 [Live Demo](https://helpful-sorbet-3b1499.netlify.app/) | [GitHub](https://github.com/pallabmondal27112004/modern_portfolio)  
+  
+- 🔹 **School Management Website** – Django, Bootstrap  
+  👉 [Live Demo](https://college-backend-91dw.onrender.com/)  
 
 - 🔹 **Todo Application** – React, Django REST  
   👉 [Live Demo](https://genuine-gumption-6561de.netlify.app/)  
