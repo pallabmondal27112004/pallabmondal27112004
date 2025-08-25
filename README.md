@@ -66,7 +66,7 @@
 <td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **What I'm Building**
-- 🛒 **E-commerce MERN Application**
+- 🛒 **E-commerce  Application**
   - React, Django REST Framework, Bootstrap, Framer Motion
   - Redux for state management
   - Payment gateway integration
