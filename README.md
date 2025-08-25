@@ -1,132 +1,261 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Pallab Kumar Mondal
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV4cndyc251b3RhcHcwM3J0ZnF3MXQ0amttZTFqbGg4ZTBpNTk1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2h/giphy.gif" width="150px" />
-  <h1>Hi there, I'm Pallab Mondal 👋</h1>
-  <h3>A passionate Full Stack & Flutter Developer from India 🇮🇳</h3>
-  <p>I specialize in building robust backends with Django/Laravel and creating beautiful, responsive user interfaces with React and Flutter.</p>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+Mobile+Developer;Django+%26+Laravel+Expert;Open+Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggACpCjo6jpI2h/giphy.gif" width="300" alt="Coding Animation"/>
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://helpful-sorbet-3b1499.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-mondal-635906281/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallabmondal10000008@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf)
+
 </div>
 
 ---
 
-### 🚀 What I'm Up To
+## 🚀 About Me
 
-<div style="display: flex; justify-content: space-between;">
+> **Passionate Full Stack Developer from India** 🇮🇳 specializing in creating scalable web applications and beautiful mobile experiences.
+
+```javascript
+const pallab = {
+  code: ["JavaScript", "Python", "PHP", "Dart", "HTML", "CSS"],
+  askMeAbout: ["Web Development", "Mobile Development", "Backend Architecture", "UI/UX"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Redux", "Framer Motion"],
+      css: ["Tailwind CSS", "Bootstrap", "Material-UI"],
+    },
+    backEnd: {
+      python: ["Django", "Django REST Framework"],
+      php: ["Laravel", "Livewire"],
+      databases: ["Oracle", "MySQL", "Redis"],
+    },
+    mobile: ["Flutter", "Android"],
+    devOps: ["Git", "Linux", "Docker"],
+    tools: ["Figma", "VS Code", "Postman"],
+  },
+  architecture: ["SPA", "MVC", "REST API", "Microservices"],
+  currentFocus: "Building scalable full-stack applications with modern tech stack",
+  funFact: "I debug code faster than I debug my life! 🐛"
+};
+```
+
+---
+
+## 🎯 Current Focus
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔭 Currently Building</h4>
-      <ul>
-        <li>A full-scale <b>E-commerce application</b> using the MERN stack (MongoDB, Express, React, Node.js) with Redux for state management.</li>
-        <li>A feature-rich <b>Hostel Management mobile app</b> using Flutter and a Laravel-powered API.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌱 Currently Learning</h4>
-      <ul>
-        <li>Deepening my knowledge in <b>Laravel</b> and <b>Livewire</b> for rapid backend development.</li>
-        <li>Exploring advanced animations and state management patterns in <b>Flutter</b>.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 What I'm Building
+- 🛒 **E-commerce MERN Application**
+  - MongoDB, Express, React, Node.js
+  - Redux for state management
+  - Payment gateway integration
+  
+- 📱 **Hostel Management Mobile App**
+  - Flutter frontend with beautiful UI
+  - Laravel API backend
+  - Real-time notifications
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 What I'm Learning
+- 🚀 **Advanced Laravel & Livewire**
+  - Real-time applications
+  - Advanced Eloquent relationships
+  
+- 📱 **Flutter Pro Techniques**
+  - Complex animations
+  - State management patterns
+  - Performance optimization
+
+</td>
+</tr>
 </table>
 
-</div>
-
 ---
 
-### 🛠️ My Tech Stack
-
-Here are the languages, frameworks, and tools I'm most comfortable with.
+## 🛠️ Tech Arsenal
 
 <details open>
-  <summary><b>Frontend Development</b></summary>
-  <p align="left">
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-    <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-    <a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  </p>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </details>
 
 <details>
-  <summary><b>Backend Development</b></summary>
-  <p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
-    <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-  </p>
+<summary><b>⚡ Backend Development</b></summary>
+<br>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 </details>
 
 <details>
-  <summary><b>Mobile Development</b></summary>
-  <p align="left">
-    <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-    <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
-    <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-  </p>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 </details>
 
 <details>
-  <summary><b>Databases & Tools</b></summary>
-  <p align="left">
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-    <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
-    <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  </p>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 Development Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </details>
 
 ---
 
-### 📂 Featured Projects
-
-Here are some of the projects I'm most proud of.
-
-| Project                               | Description & Tech Stack                                                                    | Links                                                                                                                                                                                                                                                                                       |
-| ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🛒 **E-commerce App** | A modern, responsive e-commerce front-end with state management and smooth animations.      | <a href="https://earnest-chaja-c7b7f1.netlify.app/">🔗 **Live**</a> • <a href="https://github.com/pallabmondal27112004/ecommerce_frontend">💻 **Code**</a>                                                                                                                                                |
-| Portfolio Website | A dynamic personal portfolio to showcase my work, built with a Django REST API backend. | <a href="https://helpful-sorbet-3b1499.netlify.app/">🔗 **Live**</a> • <a href="https://github.com/pallabmondal27112004/modern_portfolio">💻 **Code**</a> |
-| 🏫 **School Management Site** | A comprehensive school management system built with the Django framework.                       | <a href="https://college-backend-91dw.onrender.com/">🔗 **Live**</a>                                                                                                                                                                                                                        |
-| 🧪 **Lab Management App (Flutter)** | A Flutter app for lab management featuring QR scanning and data visualization.                  | <a href="https://github.com/pallabmondal27112004/lab_management_app">💻 **Code**</a>                                                                                                                                                                                                                         |
-| 🏨 **Hotel Management App** | _(In Progress)_ A mobile app for hotel operations using Flutter and a Laravel API.              | _(Repo Coming Soon)_                                                                                                                                                                                                                                                                                 |
-|  असाइनमेंट Portal (Desktop)       | A desktop application for managing assignments, built using Flutter for cross-platform support. | <a href="https://github.com/pallabmondal27112004/assignmentportal">💻 **Code**</a>                                                                                                                                                                                                                       |
-
-<p align="center">
-  <a href="https://helpful-sorbet-3b1499.netlify.app/">➡️ See all my projects on my portfolio website</a>
-</p>
-
----
-
-### 📊 My GitHub Stats
+## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallabmondal27112004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Pallab's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallabmondal27112004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Pallab's Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallabmondal27112004&theme=tokyonight&hide_border=true" alt="Pallab's Contribution Streak" />
+
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|------------|----------------|----------------|----------|
+| **🛒 E-commerce App** | Modern, responsive e-commerce platform with state management and smooth animations | React, Redux, Node.js, MongoDB | [🌐 Live](https://earnest-chaja-c7b7f1.netlify.app/) • [💻 Code](https://github.com/pallabmondal27112004/ecommerce_frontend) |
+| **💼 Portfolio Website** | Dynamic personal portfolio with Django REST API backend | React, Django, REST API | [🌐 Live](https://helpful-sorbet-3b1499.netlify.app/) • [💻 Code](https://github.com/pallabmondal27112004/modern_portfolio) |
+| **🏫 School Management** | Comprehensive school management system with admin dashboard | Django, Bootstrap, Oracle | [🌐 Live](https://college-backend-91dw.onrender.com/) |
+| **🧪 Lab Management** | Flutter app with QR scanning and data visualization features | Flutter, Dart, SQLite | [💻 Code](https://github.com/pallabmondal27112004/lab_management_app) |
+| **🏨 Hotel Management** | Mobile app for hotel operations (In Development) | Flutter, Laravel, MySQL | 🔜 Coming Soon |
+| **📚 Assignment Portal** | Cross-platform desktop app for assignment management | Flutter Desktop | [💻 Code](https://github.com/pallabmondal27112004/assignmentportal) |
+
 </div>
 
 ---
 
-### 📫 Let's Connect!
+## 📊 GitHub Analytics
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallabmondal27112004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallabmondal27112004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
 
-<p align="center">
-  <a href="mailto:pallabmondal10000008@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pallab-mondal-635906281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallabmondal27112004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallabmondal27112004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+</div>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pallabmondal27112004&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+</div>
+
+---
+
+## 🎨 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/pallabmondal27112004/pallabmondal27112004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+## 📈 Profile Views & Followers
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=pallabmondal27112004&color=00D9FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/pallabmondal27112004?color=00D9FF&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/pallabmondal27112004?color=00D9FF&style=for-the-badge&logo=github)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+💡 **Open to exciting opportunities and collaborations!**
+
+Whether it's a challenging project, innovative startup, or just a tech chat over coffee ☕, I'm always excited to connect with fellow developers and tech enthusiasts!
+
+<br>
+
+**📧 Reach out to me:**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://helpful-sorbet-3b1499.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-mondal-635906281/)
+[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallabmondal10000008@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
+
+---
+
+<div align="center">
+  
+**⭐️ From [Pallab Kumar Mondal](https://github.com/pallabmondal27112004) - Let's build something amazing together! 🚀**
+
+</div>
