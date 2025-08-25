@@ -19,7 +19,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077B5&height=120&section=header"/>
+
 
 ## 🚀 About Me
 
@@ -240,7 +240,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF&height=2"/>
 
 ## 📊 GitHub Analytics
 
@@ -261,7 +260,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallabmondal27112004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF&height=2"/>
 
 ## 🏅 GitHub Achievements
 
@@ -273,7 +271,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pallabmondal27112004&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF&height=2"/>
 
 ## 🎨 Contribution Heatmap
 
@@ -297,7 +294,6 @@
 
 > **Note:** If the snake animation doesn't appear, you'll need to set up the GitHub Action in your profile repository. Create `.github/workflows/snake.yml` with the snake generation workflow.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF&height=2"/>
 
 ## 📈 Profile Views & Followers
 
@@ -313,7 +309,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF&height=2"/>
 
 ## 💬 Random Dev Quote
 
@@ -327,7 +322,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00D9FF&height=2"/>
 
 ## 🤝 Let's Connect & Collaborate!
 
