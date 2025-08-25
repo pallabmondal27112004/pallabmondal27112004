@@ -233,7 +233,7 @@ Whether it's a challenging project, innovative startup, or just a tech chat over
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://helpful-sorbet-3b1499.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-mondal-635906281/)
 [![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallabmondal10000008@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf)
+[![Resume](https://github.com/user-attachments/files/21974989/Pallab_resume_overleaf.pdf)
 
 </div>
 
