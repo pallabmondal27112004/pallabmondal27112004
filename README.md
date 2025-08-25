@@ -25,29 +25,20 @@
 
 > **Passionate Full Stack Developer from India** 🇮🇳 specializing in creating scalable web applications and beautiful mobile experiences.
 
-```javascript
-const pallab = {
-  code: ["JavaScript", "Python", "PHP", "Dart", "HTML", "CSS"],
-  askMeAbout: ["Web Development", "Mobile Development", "Backend Architecture", "UI/UX"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Redux", "Framer Motion"],
-      css: ["Tailwind CSS", "Bootstrap", "Material-UI"],
-    },
-    backEnd: {
-      python: ["Django", "Django REST Framework"],
-      php: ["Laravel", "Livewire"],
-      databases: ["Oracle", "MySQL", "Redis"],
-    },
-    mobile: ["Flutter", "Android"],
-    devOps: ["Git", "Linux", "Docker"],
-    tools: ["Figma", "VS Code", "Postman"],
-  },
-  architecture: ["SPA", "MVC", "REST API", "Microservices"],
-  currentFocus: "Building scalable full-stack applications with modern tech stack",
-  funFact: "I debug code faster than I debug my life! 🐛"
-};
-```
+🎯 **What I Do:**
+- 💻 Build robust backends with **Django** & **Laravel**
+- ⚛️ Create dynamic frontends with **React** & modern JavaScript
+- 📱 Develop cross-platform mobile apps with **Flutter**
+- 🏗️ Design scalable architectures and REST APIs
+- 🎨 Craft beautiful, responsive user interfaces
+
+🌟 **My Expertise:**
+- **Languages:** Python, PHP, JavaScript, Dart, HTML5, CSS3
+- **Frameworks:** Django, Laravel, React, Flutter, Bootstrap, Tailwind
+- **Databases:** Oracle, MySQL, MongoDB, Redis
+- **Tools:** Git, Docker, Linux, Figma, VS Code, Postman
+
+🚀 **Current Focus:** Building scalable full-stack applications with modern tech stack and exploring advanced Flutter animations
 
 ---
 
