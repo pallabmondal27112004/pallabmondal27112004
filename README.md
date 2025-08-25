@@ -1,52 +1,132 @@
-
-<h1 align="center">Hi 👋, I'm Pallab Mondal</h1>
-<h3 align="center">A passionate full stack developer also the flutter developer from India</h3>
-
-- 🔭 I’m currently working on **ecommerce application with key technology like django and django rest framework for making the api and for frontend use react and for state management use redux tool kit and i work on also one mobile application that is hostel management app in flutter**
-
-- 🌱 I’m currently learning **laravel, livewire, flutter**
-
-- 👨‍💻 All of my projects are available in this portfolio [https://helpful-sorbet-3b1499.netlify.app/]
-
-- 📫 How to reach me **pallabmondal10000008@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf](https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf)
-
-
-### 📌 Featured Projects
-- 🔹 **E-commerce App** – React, Redux, Framer Motion, Django REST  
-  👉 [Live Demo](https://earnest-chaja-c7b7f1.netlify.app/) | [Frontend GitHub](https://github.com/pallabmondal27112004/ecommerce_frontend)  
-
-- 🔹 **Client Dashboard** – Laravel, Livewire *(Private Repository)*  
-
-- 🔹 **Hotel Management System (App)** – Flutter, Provider, Laravel API  
-  👉 [In Progress](https://hotel-management-demo-link.com)  
-
-- 🔹 **Portfolio Website** – React, Redux, Framer Motion, Django REST  
-  👉 [Live Demo](https://helpful-sorbet-3b1499.netlify.app/) | [GitHub](https://github.com/pallabmondal27112004/modern_portfolio)  
-  
-- 🔹 **School Management Website** – Django, Bootstrap  
-  👉 [Live Demo](https://college-backend-91dw.onrender.com/)  
-
-- 🔹 **Todo Application** – React, Django REST  
-  👉 [Live Demo](https://genuine-gumption-6561de.netlify.app/)  
-
-- 🔹 **Hackathon Landing Page** – React, Bootstrap, Framer Motion  
-  👉 [Live Demo](https://funny-palmier-d01060.netlify.app/)  
-
-- 🔹 **Lab Management App** – Flutter, Provider, mobile_scanner, Syncfusion  
-  👉 [GitHub](https://github.com/pallabmondal27112004/lab_management_app)  
-
-- 🔹 **Assignment Portal (Desktop Application)** – Flutter, Dart IO, Provider  
-  👉 [GitHub](https://github.com/pallabmondal27112004/assignmentportal)  
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV4cndyc251b3RhcHcwM3J0ZnF3MXQ0amttZTFqbGg4ZTBpNTk1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpI2h/giphy.gif" width="150px" />
+  <h1>Hi there, I'm Pallab Mondal 👋</h1>
+  <h3>A passionate Full Stack & Flutter Developer from India 🇮🇳</h3>
+  <p>I specialize in building robust backends with Django/Laravel and creating beautiful, responsive user interfaces with React and Flutter.</p>
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pallab-mondal-635906281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pallab-mondal-635906281/" height="30" width="40" /></a>
-<a href="https://fb.com/pallabmondal27112004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pallabmondal27112004" height="30" width="40" /></a>
+### 🚀 What I'm Up To
+
+<div style="display: flex; justify-content: space-between;">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔭 Currently Building</h4>
+      <ul>
+        <li>A full-scale <b>E-commerce application</b> using the MERN stack (MongoDB, Express, React, Node.js) with Redux for state management.</li>
+        <li>A feature-rich <b>Hostel Management mobile app</b> using Flutter and a Laravel-powered API.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌱 Currently Learning</h4>
+      <ul>
+        <li>Deepening my knowledge in <b>Laravel</b> and <b>Livewire</b> for rapid backend development.</li>
+        <li>Exploring advanced animations and state management patterns in <b>Flutter</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are the languages, frameworks, and tools I'm most comfortable with.
+
+<details open>
+  <summary><b>Frontend Development</b></summary>
+  <p align="left">
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+    <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+    <a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>Backend Development</b></summary>
+  <p align="left">
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+    <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>Mobile Development</b></summary>
+  <p align="left">
+    <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+    <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+    <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+  </p>
+</details>
+
+<details>
+  <summary><b>Databases & Tools</b></summary>
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="https://www.oracle.com/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
+    <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  </p>
+</details>
+
+---
+
+### 📂 Featured Projects
+
+Here are some of the projects I'm most proud of.
+
+| Project                               | Description & Tech Stack                                                                    | Links                                                                                                                                                                                                                                                                                       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛒 **E-commerce App** | A modern, responsive e-commerce front-end with state management and smooth animations.      | <a href="https://earnest-chaja-c7b7f1.netlify.app/">🔗 **Live**</a> • <a href="https://github.com/pallabmondal27112004/ecommerce_frontend">💻 **Code**</a>                                                                                                                                                |
+| Portfolio Website | A dynamic personal portfolio to showcase my work, built with a Django REST API backend. | <a href="https://helpful-sorbet-3b1499.netlify.app/">🔗 **Live**</a> • <a href="https://github.com/pallabmondal27112004/modern_portfolio">💻 **Code**</a> |
+| 🏫 **School Management Site** | A comprehensive school management system built with the Django framework.                       | <a href="https://college-backend-91dw.onrender.com/">🔗 **Live**</a>                                                                                                                                                                                                                        |
+| 🧪 **Lab Management App (Flutter)** | A Flutter app for lab management featuring QR scanning and data visualization.                  | <a href="https://github.com/pallabmondal27112004/lab_management_app">💻 **Code**</a>                                                                                                                                                                                                                         |
+| 🏨 **Hotel Management App** | _(In Progress)_ A mobile app for hotel operations using Flutter and a Laravel API.              | _(Repo Coming Soon)_                                                                                                                                                                                                                                                                                 |
+|  असाइनमेंट Portal (Desktop)       | A desktop application for managing assignments, built using Flutter for cross-platform support. | <a href="https://github.com/pallabmondal27112004/assignmentportal">💻 **Code**</a>                                                                                                                                                                                                                       |
+
+<p align="center">
+  <a href="https://helpful-sorbet-3b1499.netlify.app/">➡️ See all my projects on my portfolio website</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallabmondal27112004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Pallab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallabmondal27112004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Pallab's Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallabmondal27112004&theme=tokyonight&hide_border=true" alt="Pallab's Contribution Streak" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+
+<p align="center">
+  <a href="mailto:pallabmondal10000008@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pallab-mondal-635906281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/user-attachments/files/21550286/PallabKumarMondal.1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+  </a>
+</p>
