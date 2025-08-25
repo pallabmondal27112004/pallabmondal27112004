@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggACpCjo6jpI2h/giphy.gif" width="300" alt="Coding Animation"/>
-</div>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://helpful-sorbet-3b1499.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-mondal-635906281/)
@@ -263,9 +259,7 @@
 
 ## 🏅 GitHub Achievements
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=My+GitHub+Trophies;Achievement+Unlocked!" alt="Achievements"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pallabmondal27112004&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
