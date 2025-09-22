@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallabmondal10000008@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/user-attachments/files/22465095/Pallab_resume_jobupdate.pdf)
 
-
 </div>
 
 
