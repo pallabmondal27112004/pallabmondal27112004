@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://helpful-sorbet-3b1499.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-mondal-635906281/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallabmondal10000008@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/user-attachments/files/21974989/Pallab_resume_overleaf.pdf)
+[![Resume](https://github.com/user-attachments/files/22465095/Pallab_resume_jobupdate.pdf)
 
 </div>
 
