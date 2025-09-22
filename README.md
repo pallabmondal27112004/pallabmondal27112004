@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center"># Full Stack Developer
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://helpful-sorbet-3b1499.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallab-mondal-635906281/)  
